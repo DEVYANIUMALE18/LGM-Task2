@@ -1,2 +1,2 @@
-LGMVIP-Webdec LGM
+LGMVIP-Webdev LGM
 Task2 (react)
